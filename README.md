@@ -20,7 +20,7 @@ only — nothing phones home unless it has to.
 ## Projects
 
 | Project | What it is |
-|---|---|
+| --- | --- |
 | [local-voice-loop](https://github.com/ssolidssnake9/local-voice-loop) | Fully local voice loop: parakeet STT → Ollama LLM → local TTS, with a hold-to-talk web UI. Nothing leaves the machine. |
 | [inkwell-milestone-watch](https://github.com/ssolidssnake9/inkwell-milestone-watch) | Quiet daily watch on a virtual pet's care streak — renders a celebration card at unlock milestones. |
 | [ml-pipeline-from-scratch](https://github.com/ssolidssnake9/ml-pipeline-from-scratch) | Machine learning pipeline from scratch: NumPy classifiers, evaluation metrics, sklearn comparisons. |
@@ -35,5 +35,5 @@ GitHub Actions/Pages · protobuf/Connect-RPC · Playwright
 
 ## Elsewhere
 
-- Portfolio: https://ssolidssnake9.github.io/personal-portfolio/
-- Every project here ships with a README that explains what it does and how to run it.
+- Portfolio: <https://ssolidssnake9.github.io/personal-portfolio/>
+- Every project ships with a README explaining what it does and how to run it.
